@@ -1,0 +1,51 @@
+Faction Front: CSS autorisé
+Faction Back: La qualité de ton code est passé à la loupe
+Faction Designer: Change les couleurs (theme dark)
+
+Le capitaine Ari atterrit finalement à Picktopia, pour poursuivre sa poursuite, Ari décida d'aller à la taverne pour écouter les commérages et boire un jus de coco.
+Ari se fondit dans l'ambiance festive et décida de faire une partie de Gwentopia avant de reprendre sa poursuite.
+Ari s'assit sur la table de jeu et joua sa première carte avec un sourire narquois. Soudain
+BOUUUUM (dodo.........)
+
+
+Créer un dossier de travail (quête 8)
+Dans ce dossier:
+
+Utilise Uniquement Html/Php/Bootstrap
+CSS non autorisé!
+
+
+==> Lorsque le formulaire est soumis, les données sont enregistrées dans une Session ['table']
+    Une alerte affiche "Les données ont bien été sauvegardées"
+-Si il manque une valeur affiche une message d'erreur individuel 
+    
+Quand les données sont sauvegardées, il suffit de cliquer sur "home" 
+Ou de raffraichir la page pour afficher la "ul"
+(Affiche "ul", uniquement lorsque la session est présente)
+
+==> Lors du clic sur un lien, récupere le contenu de la Session et affiche =>   
+
+- Débogage: affiche le contenu de la session avec print_r
+
+- Concaténation: 
+affiche les données sous la forme d'une phrase
+affiche les données sous la forme d'une phrase (A l'aide d'une fonction intégré: affiche ton nom en Majuscule)
+affiche les données sous la forme d'une phrase (A l'aide d'une fonction intégré: affiche ton nom en Majuscule et remplace le "." par ",")
+
+- Boucle: 
+A l'aide d'une boucle affiche 10 fois les données sous la forme d'une phrase
+
+-Fonction:
+Créer une fonction readTable
+Appel une fois ta fonction (Affiche la clé et le contenu sous la forme d'une phrase)
+
+-Supprimer:
+Supprimer doit détruire la session
+
+Préviens moi
+Vas sur le site Github.com
+Créer un nouveau référentiel privé
+Nom du référentiel: "quete8"
+Upload ton travail
+
+ENJOY
